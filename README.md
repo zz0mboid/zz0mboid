@@ -1,16 +1,25 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fzz0mboid%2Fvisitors">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzz0mboid%2Fvisitors&label=WATCHERS&countColor=%23f47373" />
+  </a>
+</p>
 
-<!--
-**zz0mboid/zz0mboid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ec6c4667-cad2-4c05-89bb-25247bbb3bb5" width="500">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>art by: rymar_art ^.^</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="http://www.gigaglitters.com/">
+    <img src="http://www.gigaglitters.com/created/FbLlxCbGc4.gif" width="271">
+  </a>
+</p>
+
+<p align="center">
+  <i>any pronouns | 7teen</i><br>
+  <i>c+h is welcome for everyone !!</i><br>
+  <i>rp or shipping is fine as long its legal</i>
+</p>
