@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="http://www.gigaglitters.com/">
-    <img src="http://www.gigaglitters.com/created/FbLlxCbGc4.gif" width="271">
+    <img src="http://www.gigaglitters.com/created/SpGfHfaIsc.gif" width="271">
   </a>
 </p>
 
