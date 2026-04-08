@@ -21,5 +21,6 @@
 <p align="center">
   <i>any pronouns | 7teen</i><br>
   <i>c+h is welcome for everyone !!</i><br>
-  <i>rp or shipping is fine as long its legal</i>
+  <i>rp or shipping is fine as long its legal</i><br>
+  <i>nate @ikedaren88 dni pls... /j </i>
 </p>
