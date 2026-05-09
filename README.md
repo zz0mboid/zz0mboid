@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fzz0mboid%2Fvisitors">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzz0mboid%2Fvisitors&label=WATCHERS&countColor=%23f47373" />
@@ -14,7 +15,7 @@
 
 <p align="center">
   <a href="http://www.gigaglitters.com/">
-    <img src="http://www.gigaglitters.com/created/SpGfHfaIsc.gif" width="271">
+    <img src="https://github.com/user-attachments/assets/0ec24e76-844b-4ceb-9dbf-96c934918e8c" width="271">
   </a>
 </p>
 
